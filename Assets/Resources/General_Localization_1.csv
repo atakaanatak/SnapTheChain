@@ -1,0 +1,57 @@
+ID_Key,Character,Type,Turkish,English
+MM_TITLE,System,Header,Ana Menü,Main Menu
+MM_START,System,Button,Oyna,Start
+MM_SETTINGS,System,Button,Ayarlar,Settings
+MM_CREDITS,System,Button,Emeği Geçenler,Credits
+MM_HOWTOPLAY,System,Button,Nasıl Oynanır,How To Play
+MM_QUIT,System,Button,Çıkış,Quit
+CREDITS_TITLE,System,Header,Emeği Geçenler,Credits
+BT_BACK,System,Button,Geri,Back
+SETTINGS_TITLE,System,Header,Ayarlar,Settings
+ST_SOUND,System,Label,Ses,Sound
+ST_VIDEO,System,Label,Görüntü,Video
+ST_FULLSCREEN,System,Label,Tam Ekran,Full Screen
+ST_LANGUAGE,System,Label,Dil,Language
+ST_SUBTITLES,System,Label,Altyazılar,Subtitles
+ST_TR,System,Label,Türkçe,Turkish
+ST_EN,System,Label,İngilizce,English
+HP_TITLE,System,Header,Nasıl Oynanır,How To Play
+HP_VIEW,System,Label,Bakış Açısı Değiştirme,Change Perspective
+HP_MOVE,System,Label,Hareket,Movement
+HP_JUMP,System,Label,Zıplama,Jump
+HP_RUN,System,Label,Koşma,Run
+HP_INTERACT_KEY,System,Label,Etkileşim Tuşu,Interaction Key
+HP_PLACEHOLDER,System,Label,,
+UI_BASIC_TITLE,System,Header,,
+UI_INTERACT,System,Prompt,Etkileşime Geç ~ E,Interact ~ E
+UI_TAKE_PHOTO,System,Prompt,Fotoğrafı Al ~ E,Take Photo ~ E
+UI_OPEN_CHEST,System,Prompt,Sandığı Aç ~ E,Open Chest ~ E
+UI_PLACE_PHOTO,System,Prompt,Fotoğrafı Yerleştir ~ E,Place Photo ~ E
+UI_PRESS_BUTTON,System,Prompt,Butona Bas ~ E,Press Button ~ E
+UI_LIFT_OBJ,System,Prompt,Objeyi Kaldır ~ E,Lift Object ~ E
+UI_DROP_OBJ,System,Prompt,Objeyi Bırak ~ E,Drop Object ~ E
+UI_EXPLODE,System,Prompt,Patlat ~ E,Explode ~ E
+RM_MAIN,System,Label,Main Room,Main Room
+RM_MAZE,System,Label,Maze Room,Maze Room
+RM_PLATFORM,System,Label,Platform Room,Platform Room
+RM_SLAVE,System,Label,Slave Room,Slave Room
+RM_FISH,System,Label,Fish Room,Fish Room
+WARN_PLATFORM,System,Warning,Platform her an kırılabilir,Platform can break at any moment
+WARN_ACID,System,Warning,Labirent Asitlerinden kaç,Escape the Maze Acids
+WARN_BOBBY,System,Warning,Bobby'e dikkat et,Watch out for Bobby
+WARN_TIME,System,Warning,Zaman Daralıyor,Time is running out
+ORDER_LOCKS,System,Order,4 kilidi de aynı anda getir. Bu bir emirdir.,Bring all 4 locks at the same time. This is an order.
+RM_CANVAS_QUES,System,Label,Tuvaldeki sorular,Questions on the canvas
+RM_CANDY,System,Question,Şeker İster Misiniz,Do you want candy?
+RM_BE_NICE,System,Text,Nazik Ol,Be Nice
+RM_HELP_ME,System,Text,Bana Yardım Et,Help Me
+WIN_TITLE,System,Header,,
+WIN_TEXT,System,Label,Kazandın,You Win
+WIN_PLAY,System,Button,Yeniden Oyna,Play Again
+WIN_MENU,System,Button,Main Menuye Dön,Return to Main Menu
+WIN_QUIT,System,Button,Çıkış,Exit
+LOSE_TITLE,System,Header,,
+LOSE_TEXT,System,Label,Kaybettin,You Lost
+LOSE_PLAY,System,Button,Yeniden Oyna,Play Again
+LOSE_MENU,System,Button,Ana Menüye Dön,Return to Main Menu
+LOSE_QUIT,System,Button,Çıkış,Exit

@@ -1,0 +1,20 @@
+ID_Key,Character,Type,Turkish,English,Notes
+DIA_BOBBY_NODE1_NPC,Bobby,NPC Statement,Merhaba Richard Bey. Sizin gibi üst sýnýf bir insanýn burada ne iþi var?,"Hello, Mr. Richard. What is a high-class person like you doing here?",
+DIA_BOBBY_NODE1_OPT1,Player (Richard),Good/Patient Option,Merhaba Bobby. Sana bir iþim düþtü. Bu arada seni de iyi gördüm.,"Hello, Bobby. I need a favor from you. By the way, you're looking well.",
+DIA_BOBBY_NODE1_OPT2,Player (Richard),Bad/Aggressive Option,Boþ boþ duracaðýna bir iþe yara be! Sana bir iþ vereceðim.,Stop standing around and make yourself useful! I'm giving you a job.,
+DIA_BOBBY_NODE2_NPC,Bobby,NPC Statement,Sizin iþinize yarayabilecek olmak bir onurdur Richard bey. Ne yapmamý istersiniz?,"It is an honor to be of service to you, Mr. Richard. What would you like me to do?",
+DIA_BOBBY_NODE2_OPT1,Player (Richard),Good/Patient Option,Slave room kilidine ihtiyacým var Bobby. Onu bulmanda bana yardým eder misin?,"I need the Slave Room lock, Bobby. Can you help me find it?",
+DIA_BOBBY_NODE2_OPT2,Player (Richard),Bad/Aggressive Option,Slave room kilidine ihtiyacým var! Git Getir.,I need the Slave Room lock! Go get it.,
+DIA_BOBBY_NODE3_NPC,Bobby,NPC Statement,Anlaþýldý Richard Bey. Kilidi bulduktan sonra dýþarý çýkabilir miyim? Bugün benim Doðum günüm.,"Understood, Mr. Richard. Can I go outside after I find the lock? Today is my birthday.",Çorap stickerý gösterilir
+DIA_BOBBY_NODE3_OPT1,Player (Richard),Good/Patient Option,Ýyi ki doðdun Bobby. Al sana bir çorap.,"Happy birthday, Bobby. Here, have a sock.",Harry Potter Dobby göndermesi
+DIA_BOBBY_NODE3_OPT2,Player (Richard),Bad/Aggressive Option,"Ne münasebet, sen buraya aitsin ve burada kalacaksýn.",Absolutely not. You belong here and you will stay here.,
+DIA_BOBBY_NODE4_NPC,Bobby,NPC Statement,Beni sahiplendiðiniz için çok teþekkür ederim Richard Bey. Sizi çok seviyorum.,"Thank you so much for taking me in, Mr. Richard. I love you so much.",Öpücük stickerý gösterilir
+DIA_BOBBY_NODE4_OPT1,Player (Richard),Good/Patient Option,Rica ederim Bobby. Sen iyi bir çalýþansýn þimdi bana o kilidi verebilir misin?,"You're welcome, Bobby. You are a good worker, now can you give me that lock?",
+DIA_BOBBY_NODE4_OPT2,Player (Richard),Bad/Aggressive Option,"Evet evet, harika bir sahibim duygusallaþmayý býrak da o kilidi bana ver!","Yes, yes, I'm a wonderful master. Stop getting emotional and give me the lock!",
+DIA_BOBBY_NODE5_NPC,Bobby,NPC Statement,Ama Richard Bey bugün benim izin günüm.,"But Mr. Richard, today is my day off.",Soru iþareti stickerý gösterilir
+DIA_BOBBY_NODE5_OPT1,Player (Richard),Good/Patient Option,Biliyorum Bobby. Ama öncesinde bana kilidi verebilir misin?,"I know, Bobby. But can you give me the lock first?",
+DIA_BOBBY_NODE5_OPT2,Player (Richard),Bad/Aggressive Option,"Bana sesini yükseltme köle, O kilidi zorla almasýný da bilirim.","Don't raise your voice at me, slave. I know how to take that lock by force.",
+DIA_BOBBY_NODE6_NPC,Bobby,NPC Statement,"Bobby'e doðum gününde çorap hediye edildi. Bobby artýk özgür, sistemin istediðini yapmak zorunda deðil.","Bobby was given a sock for his birthday. Bobby is free now, he doesn't have to do what the system wants.",Kýzgýn sticker gösterilir
+DIA_BOBBY_NODE6_OPT1,Player (Richard),Good/Patient Option,"Tamam, bana kilidin nerede olduðunu söyle!","Okay, just tell me where the lock is!",
+DIA_BOBBY_NODE6_OPT2,Player (Richard),Bad/Aggressive Option,KÝLÝDÝ GETÝR KÖLE!!!,"BRING THE LOCK, SLAVE!!!",
+DIA_BOBBY_NODE7_NPC,Bobby,NPC Statement,Kilit benim arka cebimde Richard.,"The lock is in my back pocket, Richard.",Tuvale kan sýçrar. Etkileþim sonu.
